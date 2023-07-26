@@ -1,6 +1,7 @@
 ### Hi, I am Leila 👋 
 
-![Uploading banner (1).png…]()
+![mybannerimage](https://github.com/leilafaez/leilafaez/assets/79403281/fc6f2415-7a32-4704-bacc-4aa904066b6f)
+
 
 # About Me
 I am an aspiring full-stack developer with experience 𝟗+ 𝐲𝐞𝐚𝐫𝐬 as a former Scrum Master in the tech industry. My ambition is to build intuitive and scalable web applications. I have experience working on projects from ideation to deployment. I thrive in collaborative environments and am committed to delivering solutions that meet user and business needs.
