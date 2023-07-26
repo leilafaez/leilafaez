@@ -13,7 +13,7 @@ I am Leila an aspiring full-stack web developer. I am a passionate learner who's
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafaez&theme=catppuccin-frappe)](https://git.io/streak-stats)
   
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilafaez&layout=compact)
 
 
 <!--
