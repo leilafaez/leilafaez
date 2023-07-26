@@ -11,7 +11,7 @@ I am Leila an aspiring full-stack web developer. I am a passionate learner who's
 <p align= "center" ><b><h2> My Github stats</h2> </b></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafaez&theme=catppuccin-frappe)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=catppuccin-frappe)
 
 
 
