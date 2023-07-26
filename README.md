@@ -1,13 +1,13 @@
 ### Hi, I am Leila 👋 
 
-![banner](https://github.com/leilafaez/leilafaez/assets/79403281/5dd60147-c355-49aa-9862-15dd20df300d)
+![Uploading banner (1).png…]()
 
 # About Me
 I am an aspiring full-stack developer with experience 𝟗+ 𝐲𝐞𝐚𝐫𝐬 as a former Scrum Master in the tech industry. My ambition is to build intuitive and scalable web applications. I have experience working on projects from ideation to deployment. I thrive in collaborative environments and am committed to delivering solutions that meet user and business needs.
 
 # Get in touch 👯
 <p align="left">sharing updates on
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />[Linkedin](https://www.linkedin.com/in/leila-fa/)</a>
+<a href="[your link](https://www.linkedin.com/in/leila-fa/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
 # Languages and Tools
