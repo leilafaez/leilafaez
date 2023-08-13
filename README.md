@@ -14,7 +14,6 @@ Previously, I excelled as a Scrum Master and adept software analyst. However, my
 
 <p align= "center" ><b><h2> My Github stats</h2> </b></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafaez&theme=dark&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leilafaez)
 
