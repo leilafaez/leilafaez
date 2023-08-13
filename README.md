@@ -1,6 +1,8 @@
 ![banner (1)](https://github.com/leilafaez/leilafaez/assets/79403281/ba747783-301b-44ba-b5e3-bbddc5bd3713)
 I am Leila, an accomplished FullStack developer with nearly a decade of experience in the software industry. Throughout my career, I have undertaken various roles driven by motivation, consistently striving to achieve optimal results for the companies I've had the privilege to work with.🙋
+
 My passion lies in creating intuitive and scalable web applications. I have extensive experience managing projects from concept to deployment, thriving in collaborative environments, and dedicating myself to delivering solutions that align seamlessly with user and business needs.
+
 Previously, I excelled as a Scrum Master and adept software analyst. However, my fervent passion led me to pursue a FullStack developer role after successfully completing renowned courses at the esteemed "𝘾𝙤𝙙𝙚𝙔𝙤𝙪𝙧𝙁𝙪𝙩𝙪𝙧𝙚" Institute.🎯💥
 
 
@@ -12,9 +14,8 @@ Previously, I excelled as a Scrum Master and adept software analyst. However, my
 
 <p align= "center" ><b><h2> My Github stats</h2> </b></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafaez&theme=catppuccin-frappe)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafaez&theme=dark&background=000000)](https://git.io/streak-stats)
 
-(https://github-readme-streak-stats.herokuapp.com/?user=leilafaez)
 
 
 
