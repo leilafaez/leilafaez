@@ -1,5 +1,5 @@
 ![banner (1)](https://github.com/leilafaez/leilafaez/assets/79403281/ba747783-301b-44ba-b5e3-bbddc5bd3713)
-I am Leila, an accomplished FullStack developer with nearly a decade of experience in the software industry. Throughout my career, I have worn multiple hats, including roles as a Scrum Master and System Analyst, consistently delivering optimal results for the companies I've had the privilege to work with.🙋
+I am Leila, and a dedicated full-stack developer with a background in agile environments, having worked as a Scrum Master before transitioning into software development. I thrive in collaborative teams and enjoy building intuitive, scalable web applications that solve real-world problems.🙋
 
 My passion lies in creating intuitive and scalable web applications. I have extensive experience managing projects from concept to deployment, thriving in collaborative environments, and dedicating myself to delivering solutions that align seamlessly with user and business needs.
 
