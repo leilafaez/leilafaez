@@ -1,10 +1,8 @@
 ![banner (1)](https://github.com/leilafaez/leilafaez/assets/79403281/ba747783-301b-44ba-b5e3-bbddc5bd3713)
-I am Leila, and a dedicated full-stack developer with a background in agile environments, having worked as a Scrum Master before transitioning into software development. I thrive in collaborative teams and enjoy building intuitive, scalable web applications that solve real-world problems.🙋
-
-My passion lies in creating intuitive and scalable web applications. I have extensive experience managing projects from concept to deployment, thriving in collaborative environments, and dedicating myself to delivering solutions that align seamlessly with user and business needs.
-
-Previously, I excelled as a Scrum Master and adept software analyst. However, my fervent passion led me to pursue a FullStack developer role after successfully completing renowned courses at the esteemed "𝘾𝙤𝙙𝙚𝙔𝙤𝙪𝙧𝙁𝙪𝙩𝙪𝙧𝙚" Institute.🎯💥
-
+I’m Leila � a Business Analyst with a background in full-stack development and agile project delivery.
+My journey began in system analysis and Scrum Master roles, where I developed a strong understanding of both technical and business processes. Later, I expanded my expertise into web development, building scalable and user-focused applications using JavaScript, React, Node.js, and postgreSQL.
+Today, I apply my combined technical and analytical skills to bridge the gap between stakeholders and development teams, turning business needs into actionable technical solutions.
+I still enjoy coding and exploring new technologies in my free time, as it helps me stay connected to the technical side of problem-solving and innovation.👩‍💻
 
 <p align= "center" ><b><h2> Technology Stack</h2> </b></p>
 
