@@ -1,5 +1,5 @@
 ![banner (1)](https://github.com/leilafaez/leilafaez/assets/79403281/ba747783-301b-44ba-b5e3-bbddc5bd3713)
-I’m Leila � a Business Analyst with a background in full-stack development and agile project delivery.
+I’m Leila, a Business Analyst with a background in full-stack development and agile project delivery.
 My journey began in system analysis and Scrum Master roles, where I developed a strong understanding of both technical and business processes. Later, I expanded my expertise into web development, building scalable and user-focused applications using JavaScript, React, Node.js, and postgreSQL.
 Today, I apply my combined technical and analytical skills to bridge the gap between stakeholders and development teams, turning business needs into actionable technical solutions.
 I still enjoy coding and exploring new technologies in my free time, as it helps me stay connected to the technical side of problem-solving and innovation.👩‍💻
